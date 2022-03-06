@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/56522779/android.apk_admin.iml" filepath="$PROJECT_DIR$/.idea/modules/56522779/android.apk_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1450498836/android.app_usage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1450498836/android.app_usage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-123515376/android.battery_info.iml" filepath="$PROJECT_DIR$/.idea/modules/-123515376/android.battery_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-582216778/android.battery_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/-582216778/android.battery_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1940185820/android.cpu_reader.iml" filepath="$PROJECT_DIR$/.idea/modules/-1940185820/android.cpu_reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1333045606/android.device_apps.iml" filepath="$PROJECT_DIR$/.idea/modules/1333045606/android.device_apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1695586590/android.device_info.iml" filepath="$PROJECT_DIR$/.idea/modules/-1695586590/android.device_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/598858388/android.facebook_audience_network.iml" filepath="$PROJECT_DIR$/.idea/modules/598858388/android.facebook_audience_network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/424235802/android.google_mobile_ads.iml" filepath="$PROJECT_DIR$/.idea/modules/424235802/android.google_mobile_ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-996463275/android.memory_info.iml" filepath="$PROJECT_DIR$/.idea/modules/-996463275/android.memory_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-415990109/android.open_settings.iml" filepath="$PROJECT_DIR$/.idea/modules/-415990109/android.open_settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-438648392/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-438648392/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/763768848/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/763768848/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/736235980/android.share.iml" filepath="$PROJECT_DIR$/.idea/modules/736235980/android.share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1310451691/android.storage_space.iml" filepath="$PROJECT_DIR$/.idea/modules/-1310451691/android.storage_space.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/227503331/android.store_redirect.iml" filepath="$PROJECT_DIR$/.idea/modules/227503331/android.store_redirect.iml" />
+    </modules>
+  </component>
+</project>

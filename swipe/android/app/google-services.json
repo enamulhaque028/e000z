@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "461434022935",
+    "project_id": "swipe-e370f",
+    "storage_bucket": "swipe-e370f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461434022935:android:bd5e0c82caaa69ed69c052",
+        "android_client_info": {
+          "package_name": "com.example.swipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461434022935-duu9v7fn39fmqfouugagnbulu3vhlpfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swipe",
+            "certificate_hash": "eac3b936cbfe456b6804a117022a02510dbf2d50"
+          }
+        },
+        {
+          "client_id": "461434022935-crv9q1dsh3ogn6t8h6mmgdf968daj8gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAz5FpILqEEvCLkOtOD-FQmbJK9koqAHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461434022935-crv9q1dsh3ogn6t8h6mmgdf968daj8gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/apk_admin-2.2.4/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/app_usage-2.0.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/battery_info-1.0.8/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/battery_plus-1.1.1/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/cpu_reader-3.0.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/device_apps-2.1.1/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/device_info-2.0.2/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/facebook_audience_network-1.0.0-nullsafety.0/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_mobile_ads-0.13.4/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/memory_info-0.0.2/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/open_settings-2.0.2/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.4/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-8.1.6/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/share-2.0.4/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/storage_space-1.0.1+5/android" />
+            <option value="$PROJECT_DIR$/../../../../../Flutter/flutter_windows_2.5.0-stable/flutter/.pub-cache/hosted/pub.dartlang.org/store_redirect-2.0.0/android" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
