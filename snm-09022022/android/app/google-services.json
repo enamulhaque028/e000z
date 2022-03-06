@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568646819131",
+    "project_id": "ati-snm",
+    "storage_bucket": "ati-snm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568646819131:android:6ec091a44d867c2c6f2b1e",
+        "android_client_info": {
+          "package_name": "com.ati.snm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568646819131-6e8if8isim69q2t8h8pnd4bgnjfpolbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLChL79GMGaPfh5cnLXFDGB15FXyiMMZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568646819131-6e8if8isim69q2t8h8pnd4bgnjfpolbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

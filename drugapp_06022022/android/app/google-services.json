@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "606829820335",
+    "project_id": "drug-pims",
+    "storage_bucket": "drug-pims.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606829820335:android:6017d8e1245df40d4e975a",
+        "android_client_info": {
+          "package_name": "com.dil.pims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606829820335-8m3mpr9hhcu1vuei6c9bs3urer18nc8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dil.pims",
+            "certificate_hash": "2ae1bfadf80da685753fa810e789ddf15e651454"
+          }
+        },
+        {
+          "client_id": "606829820335-f4ltmc5d785a023t688hu2fgbqgo7mv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dil.pims",
+            "certificate_hash": "e5e8c0a1d6b107ad8ea017096b579a929847c040"
+          }
+        },
+        {
+          "client_id": "606829820335-i3dhaushkje38q3eja9ofmb1rg9fbrod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlpKGUYw8UJCK656C5diZBKz2rJJgWRF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606829820335-i3dhaushkje38q3eja9ofmb1rg9fbrod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

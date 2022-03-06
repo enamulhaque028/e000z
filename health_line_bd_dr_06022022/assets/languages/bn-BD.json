@@ -1,0 +1,12 @@
+{
+    "homePage": {
+        "title1": "জনপ্রিয় ডাক্তার",
+        "title2": "কৌশল",
+        "title3": "ডাক্তারের বিশেষত্ব"
+    },
+    "settingsPage": {
+        "appBarTitle": "সেটিংস",
+        "themeTitle": "থিম নির্বাচন করুন",
+        "languageTitle": "ভাষা"
+    }
+}

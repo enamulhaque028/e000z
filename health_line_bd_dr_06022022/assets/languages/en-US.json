@@ -1,0 +1,12 @@
+{
+    "homePage": {
+        "title1": "Popular Doctors",
+        "title2": "Tips and Tricks",
+        "title3": "Doctor Speciality"
+    },
+    "settingsPage": {
+        "appBarTitle": "Settings",
+        "themeTitle": "Choose Theme",
+        "languageTitle": "Language"
+    }
+}
